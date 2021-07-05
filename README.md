@@ -1,3 +1,27 @@
+# Google Clone with React JS
+
+![Google Clone]()
+
+:point_right: [Google Clone Demo]()
+
+Demo app simulating Google.  
+
+🟢 Context API
+
+🟢Material UI
+
+🟢 React Router
+
+🟢 Google custom search API
+
+🟢 Custom hooks with React
+
+🟢 Firebase to setup the app and connect to Google
+
+🟢 Firebase hosting for deployment
+
+This app was created using [Clever Programmer tutorials](https://www.youtube.com/watch?v=DAWWf7q8sqM).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
