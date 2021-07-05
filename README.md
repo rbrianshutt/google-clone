@@ -1,8 +1,8 @@
 # Google Clone with React JS
 
-![Google Clone]()
+![Google Clone](google-clone.gif)
 
-:point_right: [Google Clone Demo](google-clone.gif)
+:point_right: [Google Clone Demo](https://clone-3d7de.web.app/)
 
 Demo app simulating Google.  
 
