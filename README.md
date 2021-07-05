@@ -2,7 +2,7 @@
 
 ![Google Clone]()
 
-:point_right: [Google Clone Demo]()
+:point_right: [Google Clone Demo](google-clone.gif)
 
 Demo app simulating Google.  
 
