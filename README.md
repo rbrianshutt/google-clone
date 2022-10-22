@@ -20,7 +20,7 @@ Demo app simulating Google.
 
 🟢 Firebase hosting for deployment
 
-This app was created using [Clever Programmer tutorials](https://www.youtube.com/watch?v=DAWWf7q8sqM).
+
 
 # Getting Started with Create React App
 
